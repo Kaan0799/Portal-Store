@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTZAmX9jicPrF+LsKPa5u0Kggx7qs0Hjx9oYZ/GIMrum8bA0sBum3sFUbeXeX4vy0937Fl0jGLuhahGV75OrfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huawei\\source\\repos\\WebApplication1\\CoreLayer\\CoreLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
